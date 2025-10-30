@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Martin Pashov <br>
+👋 Hi, I’m Martin Pashov <br> 
 🔭 Exploring technology, software development, and innovation <br>
 🌱 Always learning and problem-solving <br>
 🤝 Open to collaboration on impactful projects <br>
