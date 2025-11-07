@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: 
 👋 Hi, I’m Martin Pashov <br>   
 🔭 Exploring technology, software development, and innovation <br>
 🌱 Always learning and problem-solving <br>
